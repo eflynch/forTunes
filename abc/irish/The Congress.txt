@@ -1,0 +1,13 @@
+
+X: 28
+T: The Congress
+C: Joe Mills
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:eAAG ABcd|eaaf gedg|eAAA eAcA|B2GA Bcdg|
+eAAG ABcd|eaaf gedB|cBcd eged|cABG ABcd:|
+|:eaag a2ag|eaag egdg|egdg egdg|eaaf gedg|
+eaag a2ag|eaag egdB|c2cd e2ed|cABG ABcd:|
+

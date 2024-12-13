@@ -1,0 +1,12 @@
+
+X: 21
+T: The Castle
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+B|:cBA BAG|AGE DB,G,|A,3 EDB,|DEG AGE|
+c2A (3Bcd B|AGE DB,G,|A,3 EDB,|DB,G, A,2B:|
+|:cBA a3|bag edB|GBd g3|GBd cAB|
+cBc dcd|ede gab|age dBA|1 EFG A2B:|2 EFG A2||
+

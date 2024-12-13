@@ -1,0 +1,17 @@
+
+X: 21
+T: Farewell To Ireland
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:A3c e3f|gedB GABG|A3c e3f|gedB eAAG|
+A3c e3f|gedB d2 g2|edeg a2 ba|gedB BA A2:|
+K:AMix
+|:a3g agef|g3a gede|a3g agef|gedB BA A2|
+agef g3e|d3B GABd|cA A2 (3Bcd ef|gedB BA A2:|
+|:eABA eABA|d3B GABd|eABA e3f|gedB BA A2|
+eABA eABA|d3B GABd|cA A2 (3Bcd ef|gedB BA A2:|
+|:aece aece|gdBd gdBd|aece a3f|gedB BA A2|
+agef g3e|d3B GABd|cA A2 (3Bcd ef|gedB BA A2:|
+
